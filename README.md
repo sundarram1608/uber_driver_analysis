@@ -5,6 +5,7 @@ Here, we are analyzing different aspects of the trips by doing Exploratory Data 
 
 Essential data science libraries listed below are leveraged to perform Exploratory Data Analysis using Python.
 
+***Libraries leveraged:***
 > NumPy
 
 > Pandas
