@@ -13,3 +13,10 @@ Essential data science libraries listed below are leveraged to perform Explorato
 > Matplotlib
 
 > Seaborn
+
+***How to use the repo?***
+> Fork and clone the repository
+
+> Install the above libraries if not available using the command `pip install` in terminal
+
+> Open the `code.ipynb` file and run all the cells.
