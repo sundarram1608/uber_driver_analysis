@@ -18,3 +18,6 @@ Essential data science libraries listed below are leveraged to perform Explorato
 - Fork and clone the repository
 - Install the above libraries (virtual environment recommended) if not available using the command `pip install` in terminal
 - Open the `code.ipynb` file and run all the cells.(Same Folder hierarchy as in repository to be used)
+
+
+**This detailed analysis was performed by me as a part of my course work in Post Graduate Program in Data Science & Business Analytics**
